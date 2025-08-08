@@ -19,27 +19,27 @@ Built with **React** and **Tailwind CSS** for a modern, mobile-friendly interfac
   <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React, Tailwind CSS" />
 </p>
 
-- **Frontend:** React  
-- **Styling:** Tailwind CSS  
-- **State Management:** React Hooks / Context API 
-- **API:** REST or Firebase
-
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Middleware:** CORS for API security and cross-origin requests  
 ---
 
 ## ✨ Features
 
 - Search donors by blood group and location (district, upazila)  
-- Filter results dynamically  
+- Dynamic filtering of donors  
 - Responsive design for mobile and desktop  
-- Easy-to-use, clean UI built with Tailwind CSS
-
+- RESTful API backend with Node.js and Express  
+- Data stored securely in MongoDB  
+- CORS enabled for secure cross-origin requests  
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js v16+  
-- npm or yarn package manager
+- npm or yarn package manager  
+- MongoDB database (local or cloud)
 
 ### Installation
 
