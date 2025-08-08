@@ -43,16 +43,47 @@ Built with **React** and **Tailwind CSS** for a modern, mobile-friendly interfac
 - CORS enabled for secure cross-origin requests  
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### Prerequisites
-- Node.js v16+  
-- npm or yarn package manager  
-- MongoDB database (local or cloud)
+Follow these steps to run the project locally:
 
-### Installation
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/food-sharing-website.git
+    cd food-sharing-website
+    ```
 
-```bash
-git clone https://github.com/YourUsername/blood-donation-website.git
-cd blood-donation-website
-npm install
+2. **Install dependencies for client and server:**
+    ```bash
+    cd client
+    npm install
+
+    cd ../server
+    npm install
+    ```
+
+3. **Configure environment variables:**
+
+    Create a `.env` file in the `/server` folder and add:
+    ```
+    MONGO_URI=your_mongodb_connection_string
+    FIREBASE_API_KEY=your_firebase_api_key
+    ...
+    ```
+
+4. **Run the backend server:**
+    ```bash
+    cd server
+    npm start
+    ```
+
+5. **Run the frontend client:**
+    ```bash
+    cd ../client
+    npm start
+    ```
+
+6. **Open the browser and go to:**
+    ```
+    http://localhost:3000
+    ```
