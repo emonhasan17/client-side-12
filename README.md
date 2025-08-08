@@ -21,8 +21,8 @@ Built with **React** and **Tailwind CSS** for a modern, mobile-friendly interfac
 
 - **Frontend:** React  
 - **Styling:** Tailwind CSS  
-- **State Management:** React Hooks / Context API (if used)  
-- **API:** REST or Firebase (if applicable)
+- **State Management:** React Hooks / Context API 
+- **API:** REST or Firebase
 
 ---
 
