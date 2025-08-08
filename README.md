@@ -24,15 +24,14 @@ Built with **React** and **Tailwind CSS** for a modern, mobile-friendly interfac
 - **Middleware:** CORS for API security and cross-origin requests  
 ---
 
-📦 NPM Packages Used
-axios – For API requests
-react-router-dom – Routing management
-firebase – Authentication and token handling
-react-hook-form – Form validation
-sweetalert2 – Alert messages
-react – Icons
-toastify – Alert
-swiper slider – Slider
+## Dependencies
+- React 
+- Express 
+- MongoDB Driver  
+- Firebase SDK  
+- Axios  
+- React Router DOM  
+- Tailwind CSS  
 
 ## ✨ Features
 
